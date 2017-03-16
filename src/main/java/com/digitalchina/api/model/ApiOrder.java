@@ -1,4 +1,4 @@
-package com.digitalchina.sport.order.api.model;
+package com.digitalchina.api.model;
 
 import java.util.Date;
 

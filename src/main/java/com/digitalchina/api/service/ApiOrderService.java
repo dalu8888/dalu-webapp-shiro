@@ -1,7 +1,7 @@
-package com.digitalchina.sport.order.api.service;
+package com.digitalchina.api.service;
 
-import com.digitalchina.sport.order.api.dao.ApiOrderDao;
-import com.digitalchina.sport.order.api.model.ApiOrder;
+import com.digitalchina.api.model.ApiOrder;
+import com.digitalchina.api.dao.ApiOrderDao;
 import com.google.common.collect.Maps;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

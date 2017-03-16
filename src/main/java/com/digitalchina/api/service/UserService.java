@@ -1,8 +1,8 @@
-package com.digitalchina.sport.order.api.service;
+package com.digitalchina.api.service;
 
 
-import com.digitalchina.sport.order.api.dao.UserDao;
-import com.digitalchina.sport.order.api.model.User;
+import com.digitalchina.api.dao.UserDao;
+import com.digitalchina.api.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,4 +1,4 @@
-package com.digitalchina.sport.order.api.common.exception;
+package com.digitalchina.api.common.exception;
 
 public class BusinessException extends RuntimeException {
 

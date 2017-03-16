@@ -1,6 +1,6 @@
-package com.digitalchina.sport.order.api.dao;
+package com.digitalchina.api.dao;
 
-import com.digitalchina.sport.order.api.model.ApiOrder;
+import com.digitalchina.api.model.ApiOrder;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.Map;

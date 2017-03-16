@@ -1,4 +1,4 @@
-package com.digitalchina.sport.order.api.common;
+package com.digitalchina.api.common;
 
 public class Constants {
     /* 平台代码规范常量 */

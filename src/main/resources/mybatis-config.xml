@@ -27,7 +27,7 @@
 
     <typeAliases>
         <!--实体类-->
-        <package name="com.digitalchina.sport.order.api.model"/>
+        <package name="com.digitalchina.api.model"/>
     </typeAliases>
 
     <mappers>

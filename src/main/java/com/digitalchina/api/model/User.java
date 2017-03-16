@@ -1,4 +1,4 @@
-package com.digitalchina.sport.order.api.model;
+package com.digitalchina.api.model;
 
 /**
  * Created by asus on 2017/3/16.

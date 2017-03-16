@@ -1,8 +1,8 @@
-package com.digitalchina.sport.order.api.controller;
+package com.digitalchina.api.controller;
 
+import com.digitalchina.api.model.ApiOrder;
+import com.digitalchina.api.service.ApiOrderService;
 import com.digitalchina.common.RtnData;
-import com.digitalchina.sport.order.api.model.ApiOrder;
-import com.digitalchina.sport.order.api.service.ApiOrderService;
 import io.swagger.annotations.ApiImplicitParam;
 import io.swagger.annotations.ApiImplicitParams;
 import io.swagger.annotations.ApiOperation;

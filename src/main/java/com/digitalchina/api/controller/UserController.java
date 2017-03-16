@@ -1,8 +1,8 @@
-package com.digitalchina.sport.order.api.controller;
+package com.digitalchina.api.controller;
 
+import com.digitalchina.api.model.User;
 import com.digitalchina.common.result.Result;
-import com.digitalchina.sport.order.api.model.User;
-import com.digitalchina.sport.order.api.service.UserService;
+import com.digitalchina.api.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
