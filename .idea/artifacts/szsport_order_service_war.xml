@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="szsport_order_service:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="szsport_order_service-1.0.0.war">
+      <element id="artifact" artifact-name="szsport_order_service:war exploded" />
+    </root>
+  </artifact>
+</component>

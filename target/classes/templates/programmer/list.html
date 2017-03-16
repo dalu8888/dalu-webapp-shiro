@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>user list</title>
+</head>
+<body>
+<div>
+    <div th:replace="fragments/header :: header"></div>
+    <ul th:each="programmer : ${programmers}">
+        <li th:text="${programmer.name}">user name1</li>
+        <li th:text="${programmer.base}">user password1</li>
+        <li th:text="${programmer.tel}">user password1</li>
+        <li th:text="${programmer.level}">user password1</li>
+        <li th:text="${programmer.entryDate}">user password1</li>
+    </ul>
+    <div th:replace="fragments/footer :: footer"></div>
+</div>
+</body>
+</html>

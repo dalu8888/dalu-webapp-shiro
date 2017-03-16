@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dalu-webapp-shiro:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="dalu-webapp-shiro-1.0.0.war">
+      <element id="artifact" artifact-name="dalu-webapp-shiro:war exploded" />
+    </root>
+  </artifact>
+</component>
