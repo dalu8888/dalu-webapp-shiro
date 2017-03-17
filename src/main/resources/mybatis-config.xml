@@ -32,6 +32,5 @@
 
     <mappers>
         <!--mapper文件配置-->
-        <!--<mapper resource="mapper/ApiOrderDao.xml"/>-->
     </mappers>
 </configuration>
